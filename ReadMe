@@ -1,0 +1,11 @@
+/*=======================================================================
+  INTEGRANTES:
+              +Pablo Martinez    DNI:38338791
+              +Santiago Cuello   DNI:38329696
+  COMENTARIOS:
+    + Se encuentran en cada archivo lo requerido en la actividad propuesta.
+    + Todos los metodos funcionan correctamente, excepto el metodo Prims, 
+    que nos presento mucha dificultad.
+    + El archivo Main.java contiene un menu interactivo con el usuario con
+    los 3 casos correspondientes.
+========================================================================*/
